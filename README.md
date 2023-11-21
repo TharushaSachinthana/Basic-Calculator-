@@ -25,12 +25,12 @@
 - ✨ **Division:** Divide numbers accurately.
 
 Clone the repository:
-git clone https://github.com/YourUsername/Basic-Calculator.git
+git clone https://github.com/TharushaSachinthana/Basic-Calculator.git
 
 Navigate to the project directory:
 cd Basic-Calculator
 Demo
-Check out the live demo here. Visualize the calculator in action and try out the features.
+Check out the live demo https://tharushasachinthana.github.io/Basic-Calculator-/. Visualize the calculator in action and try out the features.
 
 Contributing
 If you'd like to contribute to this project, please follow these steps:
